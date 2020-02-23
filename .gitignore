@@ -1,6 +1,8 @@
 # Created by .ignore support plugin (hsz.mobi)
 .DS_Store
-/dist
+dist/
+!bower_components/**/dist/
+green-dist
 ### Node template
 # Logs
 logs
