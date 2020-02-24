@@ -13,7 +13,7 @@
       <b-form inline class='sidebar-inline-form'>
           <div class='navbar-middle'>
             <b-form-select :value='1' :options="cities" class='cities-select'></b-form-select>
-            <nuxt-link to="/recommendations">城市推薦綠點</nuxt-link>
+            <nuxt-link to="/recommendations">城市綠點</nuxt-link>
           </div>
           <b-input-group class="search">
               <b-input-group-prepend>
